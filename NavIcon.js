@@ -5,7 +5,7 @@ import {
     StyleSheet,
     Animated,
 } from 'react-native';
-import { p } from "./App";
+import { p } from "./p";
 import { Feather as Icon } from '@expo/vector-icons';
 
 const duration = 300;

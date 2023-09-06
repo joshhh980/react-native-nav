@@ -7,6 +7,7 @@ import {
   StatusBar,
 } from 'react-native';
 import NavIcon from './NavIcon';
+import { p } from "./p";
 
 const icons = [
   {
@@ -31,7 +32,6 @@ const icons = [
   },
 ];
 
-export let p = 0;
 
 const App = () => {
 
